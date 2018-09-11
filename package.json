@@ -1,0 +1,22 @@
+{
+  "name": "giao",
+  "version": "0.0.1",
+  "description": "抢注npm，后用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiberJe/giao.git"
+  },
+  "keywords": [
+    "giao"
+  ],
+  "author": "JeLewine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiberJe/giao/issues"
+  },
+  "homepage": "https://github.com/LiberJe/giao#readme"
+}
